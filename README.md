@@ -14,7 +14,7 @@ Updates to these files should be made _here_, not in any of the downstream repos
 ## 📋 What's included?
 
 - Everything from [Scala Config](https://github.com/SgtSwagrid/scala-config).
-- ...
+- SBT plugins and GitHub workflows for publishing to [Maven Central](https://central.sonatype.com/).
 
 ## 🏗️ Where is this used?
 
