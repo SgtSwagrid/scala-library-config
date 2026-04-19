@@ -9,22 +9,7 @@
     {
       "target": {
         "owner": "SgtSwagrid",
-        "name": "scala-website-config"
-      }
-    }, {
-      "target": {
-        "owner": "SgtSwagrid",
         "name": "scala-library-template"
-      }
-    }, {
-      "target": {
-        "owner": "SgtSwagrid",
-        "name": "scala-colours"
-      }
-    }, {
-      "target": {
-        "owner": "SgtSwagrid",
-        "name": "basis"
       }
     }, {
       "target": {
@@ -45,6 +30,16 @@
       "target": {
         "owner": "SgtSwagrid",
         "name": "page-loader"
+      }
+    }, {
+      "target": {
+        "owner": "SgtSwagrid",
+        "name": "scala-colours"
+      }
+    }, {
+      "target": {
+        "owner": "SgtSwagrid",
+        "name": "basis"
       }
     }
   ]
