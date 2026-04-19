@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>⚙️ Scala Website Config</h1>
+  <h1>⚙️ Scala Library Config</h1>
   <p>Common configuration for all of my Scala libraries.</p>
   <span>
     <a href="https://alecdorrington.com/scala-library-config"><img src="https://img.shields.io/badge/docs-latest-blue.svg" alt="Documentation" /></a>
