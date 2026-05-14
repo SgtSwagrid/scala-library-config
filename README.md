@@ -20,7 +20,7 @@ The full list of projects that rely on this configuration is defined in [graph.j
 ## 🤔 Should I use this in my projects too?
 
 Only if you want to, but this exists mainly for my own convenience.
-I would, however, argue that these settings are reasonable defaults for most Scala 3 projects.
+I would, however, argue that these settings are reasonable defaults for many Scala 3 libraries.
 
 More likely, if you're starting a new project, you'll want to use the downstream template [Scala Library Template](https://github.com/SgtSwagrid/scala-library-template).
 
