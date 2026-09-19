@@ -41,6 +41,24 @@
         "owner": "SgtSwagrid",
         "name": "basis"
       }
+    }, {
+      "target": {
+        "owner": "SgtSwagrid",
+        "name": "Themis",
+        "root": "hecate"
+      }
+    }, {
+      "target": {
+        "owner": "SgtSwagrid",
+        "name": "Themis",
+        "root": "eunomia"
+      }
+    }, {
+      "target": {
+        "owner": "SgtSwagrid",
+        "name": "Themis",
+        "root": "iris"
+      }
     }
   ]
 }
