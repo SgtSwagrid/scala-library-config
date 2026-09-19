@@ -53,6 +53,12 @@
         "name": "Themis",
         "root": "eunomia"
       }
+    }, {
+      "target": {
+        "owner": "SgtSwagrid",
+        "name": "Themis",
+        "root": "iris"
+      }
     }
   ]
 }
