@@ -59,6 +59,12 @@
         "name": "Themis",
         "root": "iris"
       }
+    }, {
+      "target": {
+        "owner": "SgtSwagrid",
+        "name": "Themis",
+        "root": "dike"
+      }
     }
   ]
 }
