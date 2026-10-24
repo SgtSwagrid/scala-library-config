@@ -71,6 +71,11 @@
         "name": "themis",
         "root": "qr4s"
       }
+    }, {
+      "target": {
+        "owner": "SgtSwagrid",
+        "name": "omnibrowser"
+      }
     }
   ]
 }
