@@ -85,6 +85,11 @@
         "owner": "SgtSwagrid",
         "name": "cadmus"
       }
+    }, {
+      "target": {
+        "owner": "SgtSwagrid",
+        "name": "annotated-text-format"
+      }
     }
   ]
 }
