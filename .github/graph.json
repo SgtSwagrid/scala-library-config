@@ -90,6 +90,11 @@
         "owner": "SgtSwagrid",
         "name": "annotated-text-format"
       }
+    }, {
+      "target": {
+        "owner": "SgtSwagrid",
+        "name": "megalingual"
+      }
     }
   ]
 }
