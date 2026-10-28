@@ -44,14 +44,12 @@
     }, {
       "target": {
         "owner": "SgtSwagrid",
-        "name": "themis",
-        "root": "hecate"
+        "name": "hecate"
       }
     }, {
       "target": {
         "owner": "SgtSwagrid",
-        "name": "themis",
-        "root": "eunomia"
+        "name": "eunomia"
       }
     }, {
       "target": {
