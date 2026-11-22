@@ -65,6 +65,12 @@
     }, {
       "target": {
         "owner": "SgtSwagrid",
+        "name": "themis",
+        "root": "laminar-components"
+      }
+    }, {
+      "target": {
+        "owner": "SgtSwagrid",
         "name": "qr4s"
       }
     }, {
